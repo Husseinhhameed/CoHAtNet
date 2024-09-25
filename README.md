@@ -68,4 +68,4 @@ we used the original CoAtNet implementation, on which CoHAtNet is based,  it can
 
 ## Contributing
 We welcome contributions! Feel free to open an issue or submit a pull request if you'd like to improve this repository or report a bug.
-
+If you have any questions or need further assistance, please feel free to email Hossein Hasan at hossein.h.hasan@gmail.com.
