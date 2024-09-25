@@ -46,6 +46,21 @@ CoHAtNet is evaluated on two benchmark datasets:
 
 ## Performance
 Experimental results show that CoHAtNet outperforms previous state-of-the-art CNN and transformer-based approaches. The model demonstrates competitive accuracy in both indoor and outdoor environments.
+### 7-Scenes Dataset Results (Mean Translation Error / Orientation Error)
+
+| Method                | Chess | Fire | Heads | Office | Pumpkin | Kitchen | Stairs | Avg  |
+|-----------------------|-------|------|-------|--------|---------|---------|--------|------|
+| CoHAtNet-4 (RGB)      | 2cm / 0.55° | 2cm / 0.58° | 2cm / 1.37° | 1cm / 0.71° | 1cm / 0.63° | 2cm / 0.61° | 2cm / 0.74° | 2cm / 0.74° |
+
+### Cambridge Landmarks Dataset Results (Mean Translation Error / Orientation Error)
+
+| Method                | King’s College | Old Hospital | Shop Facade | Church | Avg  |
+|-----------------------|----------------|--------------|-------------|--------|------|
+| CoHAtNet-4 (RGB)      | 31cm / 0.48° | 45cm / 0.67° | 16cm / 0.43° | 31cm / 0.70° | 30cm / 0.57° |
 
 
+## Homography Loss Function
+The homography-based loss function is used from the implementation provided [here](https://github.com/clementinboittiaux/homography-loss-function/blob/main/utils.py). This loss function provides a more stable and interpretable approach for camera pose regression tasks.
 
+## Original CoAtNet Implementation
+we used the original CoAtNet implementation, on which CoHAtNet is based,  it can be found [here](https://github.com/chinhsuanwu/coatnet-pytorch).
