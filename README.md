@@ -18,7 +18,8 @@ CoHAtNet has a five-stage architecture:
 4. **Global Pooling:** Final stage for aggregating global information before pose regression.
 5. **Pose Regression Head:** Outputs the camera’s 3D translation and orientation (quaternion) as 7 values.
 
-![CoHAtNet Architecture](path_to_your_image)
+![CoHAtNet Architecture](https://github.com/Husseinhhameed/CoHAtNet/blob/main/Hybridtransformer.png)
+
 
 
 ## Repository Structure
