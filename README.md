@@ -60,8 +60,8 @@ Experimental results show that CoHAtNet outperforms previous state-of-the-art CN
 | CoHAtNet-4 (RGB)      | 31cm / 0.48° | 45cm / 0.67° | 16cm / 0.43° | 31cm / 0.70° | 30cm / 0.57° |
 
 
-## Homography Loss Function
+### Homography Loss Function
 The homography-based loss function is used from the implementation provided [here](https://github.com/clementinboittiaux/homography-loss-function/blob/main/utils.py). This loss function provides a more stable and interpretable approach for camera pose regression tasks.
 
-## Original CoAtNet Implementation
+### Original CoAtNet Implementation
 we used the original CoAtNet implementation, on which CoHAtNet is based,  it can be found [here](https://github.com/chinhsuanwu/coatnet-pytorch).
