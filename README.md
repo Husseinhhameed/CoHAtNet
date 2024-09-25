@@ -29,7 +29,7 @@ In this repository, we have separate folders for each dataset:
 
 Each folder contains the scripts for Dataset preparing,training, validation, and testing the model. You can run the scripts directly or modify them based on your custom dataset.
 
-In addition, we provide a complete implementation of CoHAtNet in an **IPython Notebook (.ipynb)** file, which can be executed directly on Google Colab.
+In addition, we provide a complete implementation of CoHAtNet for both datasets in an **IPython Notebook (.ipynb)** file, which can be executed directly on Google Colab.
 
 ### Google Colab Setup
 To run the model on Google Colab:
