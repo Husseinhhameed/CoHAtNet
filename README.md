@@ -51,7 +51,7 @@ Experimental results show that CoHAtNet outperforms previous state-of-the-art CN
 | Method                | Chess | Fire | Heads | Office | Pumpkin | Kitchen | Stairs | Avg  |
 |-----------------------|-------|------|-------|--------|---------|---------|--------|------|
 | CoHAtNet-4 (RGB)      | 2cm / 0.55° | 2cm / 0.58° | 2cm / 1.37° | 1cm / 0.71° | 1cm / 0.63° | 2cm / 0.61° | 2cm / 0.74° | 2cm / 0.74° |
-| CoHAtNet-4 (RGB)      | 2cm / 0.55° | 2cm / 0.58° | 2cm / 1.37° | 1cm / 0.71° | 1cm / 0.63° | 2cm / 0.61° | 2cm / 0.74° | 2cm / 0.74° |
+| CoHAtNet-4 (RGB)      | 1cm / 0.49° | 1cm / 0.51° | 2cm / 1.02° | 1cm / 0.56° | 1cm / 0.49° | 2cm / 0.52° | 1cm / 0.46° | 1cm / 0.57° |
 
 ### Cambridge Landmarks Dataset Results (Mean Translation Error / Orientation Error)
 
