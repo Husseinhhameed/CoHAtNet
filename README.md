@@ -1,4 +1,4 @@
-# CoHAtNet: An Integrated Convolution-Transformer Architecture for End-to-End Camera Localization
+# CoHAtNet: An Integrated Convolutional-Transformer Architecture with Hybrid Self-Attention for End-to-End Camera Localization
 
 ## Overview
 Camera localization is the process of estimating the 6DoF (degrees of freedom) pose of a camera from a given image, playing a crucial role in robotics, autonomous driving, and augmented reality. CoHAtNet is a novel hybrid convolution-transformer architecture designed for end-to-end camera localization using RGB and RGB-D data. 
