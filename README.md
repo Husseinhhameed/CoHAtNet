@@ -29,14 +29,6 @@ In this repository, we have separate folders for each dataset:
 
 Each folder contains the scripts for Dataset preparing,training, validation, and testing the model. You can run the scripts directly or modify them based on your custom dataset.
 
-In addition, we provide a complete implementation of CoHAtNet for both datasets in an **IPython Notebook (.ipynb)** file, which can be executed directly on Google Colab.
-
-### Google Colab Setup
-To run the model on Google Colab:
-1. **Upload the Dataset to Google Drive:** The dataset must be stored in your Google Drive account. Ensure that the dataset is organized according to the expected structure (images and ground truth files in the appropriate directories).
-2. **Open the Colab Notebook:** The provided `.ipynb` file contains a step-by-step guide for training and evaluating CoHAtNet.
-3. **Mount Google Drive:** The notebook includes commands to mount your Google Drive so that the dataset can be accessed directly from Colab.
-4. **Run the Notebook:** Execute the cells to load the data, train the model, and evaluate performance.
 
 
 ## Datasets
