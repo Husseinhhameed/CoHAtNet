@@ -61,3 +61,16 @@ we used the original CoAtNet implementation, on which CoHAtNet is based,  it can
 ## Contributing
 We welcome contributions! Feel free to open an issue or submit a pull request if you'd like to improve this repository or report a bug.
 If you have any questions or need further assistance, please feel free to email Hossein Hasan at hossein.h.hasan@gmail.com.
+
+## 📚 Citation
+
+If you use our research in your work, please cite:
+
+Hussein Hasan, Miguel Angel Garcia, Hatem Rashwan, Domenec Puig,  
+**CoHAtNet: An integrated convolutional-transformer architecture with hybrid self-attention for end-to-end camera localization**,  
+*Image and Vision Computing*, Volume 162, 2025, 105674,  
+ISSN 0262-8856, [https://doi.org/10.1016/j.imavis.2025.105674](https://doi.org/10.1016/j.imavis.2025.105674)  
+[ScienceDirect Link](https://www.sciencedirect.com/science/article/pii/S0262885625002628)  
+
+**Keywords:** Camera localization; Hybrid CNN-transformers; CoAtNet; Hybrid self-attention
+
