@@ -84,7 +84,7 @@ Contributions are welcome!
 - Open an **issue** for bug reports or feature requests.  
 - Submit a **pull request** for improvements or new features.
 
-📧 For questions, contact: **Hossein Hasan** (hossein.h.hasan@gmail.com)
+📧 For questions, contact: **Hussein Hasan** (hossein.h.hasan@gmail.com)
 
 ---
 
